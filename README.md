@@ -14,5 +14,10 @@
 * This is bullet point 3
 * ... I think the point is acrosssed :D
 
+![Image 1](IMG_0149.JPG)
+![Image 2](IMG_4655.jpg)
+![Image 3](IMG_4081_edited.jpg)
+![Image 4](IMG_4352.jpg)
+
 
 
